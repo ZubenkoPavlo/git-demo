@@ -3,8 +3,13 @@ wall of shields
 standing strong
 on this their chosen battle field
 
-
 Apply guidelines 1 and 2
  to output conditions. 
 It gives an output which reflects 
 the minimum and the maximum values expected.
+
+Equivalence Class Partitioning
+Equivalent Class Partitioning 
+allows you to divide set of t
+est condition into a partition w
+
