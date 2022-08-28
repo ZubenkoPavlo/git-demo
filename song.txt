@@ -4,7 +4,7 @@ standing strong
 on this their chosen battle field
 
 
-Guidelines for Boundary Value analysis
-If an input condition is restricted
- between values x and y, then the 
-test cases should be designed with 
+Equivalence Class Partitioning
+Equivalent Class Partitioning 
+allows you to divide set of t
+est condition into a partition w
