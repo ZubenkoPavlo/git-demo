@@ -7,3 +7,9 @@ Software Testing Techniques
 help you design 
 better test cas
 Boundary Value Analysis (BVA)
+
+
+Guidelines for Boundary Value analysis
+If an input condition is restricted
+ between values x and y, then the 
+test cases should be designed with 
