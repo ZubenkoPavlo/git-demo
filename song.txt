@@ -13,3 +13,6 @@ Equivalent Class Partitioning
 allows you to divide set of t
 est condition into a partition w
 
+
+for tag only
+
